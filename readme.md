@@ -15,7 +15,7 @@ We’ve created a Streamlit/Gradio-style interface where you can:
 Below is a demo of the app in action:
 
 <p align="center">
-  <img width="800" src=".images/image.png" alt="RAG Chatbot Screenshot">
+  <img width="800" src="images/image.png" alt="RAG Chatbot Screenshot">
 </p>
 
 ---
